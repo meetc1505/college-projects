@@ -1,3 +1,7 @@
+#Name: Meet Choubey
+#ERP: RU2602603
+#Section: B2
+#Email: meet.choubey@rungta.org
 import numpy as np
 
 PASS_MARK = 40
